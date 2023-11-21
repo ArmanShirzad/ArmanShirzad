@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ArmanShirzad
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning ASP
-- 💞️ I’m looking to collaborate on Programming projects
-- 📫 How to reach me Contact me on Linked in 
+- 👀 I’m interested in to collaborate on .Net web applcations, Ml , timeseries, speaker recognitionm, big data, Reinforcement learning, data science, deep learning 
+- 🌱 I’m currently learning No SQl database for big data, efficient data pre processing,
+-  optimizing the training model for voxceleb dataset
+- 📫 How to reach me Contact me on Linked in : linkedin.com/in/armanshirzad
+- im amazed by generative ai and what the potential future of this field.
 
 <!---
 ArmanShirzad/ArmanShirzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
