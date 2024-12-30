@@ -44,7 +44,7 @@ I'm open to collaborating on any stack, AI research, and R&D projects.
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![A![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
@@ -54,9 +54,10 @@ I'm open to collaborating on any stack, AI research, and R&D projects.
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
-![Coffee](https://img.shields.io/badge/-Fueled%20by%20Coffee-6F4E37?style=flat-square&logo=coffee)
+
 
 ![Arman'sGitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanShirzad&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact)
 
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
+![Coffee](https://img.shields.io/badge/-Fueled%20by%20Coffee-6F4E37?style=flat-square&logo=coffee)
