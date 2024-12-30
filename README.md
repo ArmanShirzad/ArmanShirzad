@@ -1,11 +1,11 @@
 # 👨‍💻 Arman Shirzad
 🚀 Passionate Software Engineer | MSc AI @ BTU Cottbus | AI Enthusiast | R&D Expert
-Hey there! 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of experience in full-stack development, automation, and cutting-edge research in AI. I'm currently pursuing an MSc in AI, and my focus lies in leveraging technology to make meaningful impacts on sustainability, efficiency, and innovation.
+Hey there! 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of experience in full-stack development, automation, and cutting-edge research in AI. I'm currently pursuing an MSc in AI, and my focus lies in leveraging technology to make meaningful impacts on rpaidly changing world.
 
 🔭 **Currently Working On:**
 - Developing scalable automation solutions for social media and content generation.
 - Conducting research in AI for speaker recognition and cloud optimization.
-- Building modular, SEO-friendly portfolio websites with Astro.js.
+- Building modular, SEO-friendly websites.
 
 🌱 **Currently Learning:**
 - NoSQL databases for big data processing.
@@ -29,7 +29,7 @@ Hey there! 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of expe
 - Ranked 5th in ICT Programming Challenge at Sharif University.
 - I enjoy exploring nature and learning new cultures.
 💼 **Let’s Collaborate:**
-I'm open to collaborating on .NET applications, AI research, and R&D projects.
+I'm open to collaborating on any stack, AI research, and R&D projects.
 
 📫 **Get in Touch:**
 - [LinkedIn](https://linkedin.com/in/arman-shirzad)
