@@ -17,12 +17,14 @@ Hey there!
 🎯 **Goals:**
 - Collaborating on impactful AI and software development projects.
 - Making sustainability and efficiency cornerstones of my solutions.
+  
 🛠️ **Technical Expertise:**
 - **Languages:** C#, Python, JavaScript, TypeScript, SQL
 - **Frameworks & Tools:** ASP.NET Core, Django, Astro.js, React, Tailwind CSS
 - **Data & AI:** Neural networks, reinforcement learning, data preprocessing
 - **Deployment:** Docker, Azure DevOps, CI/CD, RabbitMQ
 - **Research:** Speaker recognition, Q-learning, bibliometric analysis
+  
 📚 **Publications:**
 1. *A Bibliometric Analysis of Quantum Machine Learning Research* [DOI: 10.1080/0194262X.2023.2292049](https://doi.org/10.1080/0194262X.2023.2292049)
 2. *Cost Efficiency in Cloud Data Centers Using Q-Learning* [DOI: 10.1109/CoDIT62066.2024.10708578](https://ieeexplore.ieee.org/document/10708578)
