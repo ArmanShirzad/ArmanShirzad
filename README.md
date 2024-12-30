@@ -23,7 +23,7 @@ Hey there! 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of expe
 - **Research:** Speaker recognition, Q-learning, bibliometric analysis
 📚 **Publications:**
 1. *A Bibliometric Analysis of Quantum Machine Learning Research* [DOI: 10.1080/0194262X.2023.2292049](https://doi.org/10.1080/0194262X.2023.2292049)
-2. *Cost Efficiency in Cloud Data Centers Using Q-Learning* [DOI: Link](#)
+2. *Cost Efficiency in Cloud Data Centers Using Q-Learning* [DOI: 10.1109/CoDIT62066.2024.10708578](https://ieeexplore.ieee.org/document/10708578)
 
 💡 **Fun Facts:**
 - Ranked 5th in ICT Programming Challenge at Sharif University.
@@ -33,8 +33,8 @@ I'm open to collaborating on any stack, AI research, and R&D projects.
 
 📫 **Get in Touch:**
 - [LinkedIn](https://linkedin.com/in/arman-shirzad)
-- [Email](mailto:a_shirzad76@yahoo.com)
-- [Portfolio](#) (coming soon!)
+- [Email](mailto:armanshirzad1998@gmail.com)
+- [Portfolio](https://armanshirzad.guru)
 - ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure)
