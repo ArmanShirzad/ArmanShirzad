@@ -1,5 +1,5 @@
 # 👨‍💻 Arman Shirzad
-🚀 Passionate Software Engineer | MSc AI @ BTU Cottbus | AI Enthusiast | R&D Expert
+🚀 Passionate Software Engineer | AI Enthusiast | R&D Expert
 
 Hey there! 
 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of experience in full-stack development, automation, and cutting-edge research in AI. I'm currently pursuing an MSc in AI, and my focus lies in leveraging technology to make meaningful impacts on rpaidly changing world.
