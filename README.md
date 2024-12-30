@@ -1,6 +1,8 @@
 # 👨‍💻 Arman Shirzad
 🚀 Passionate Software Engineer | MSc AI @ BTU Cottbus | AI Enthusiast | R&D Expert
-Hey there! 👋 I'm **Arman Shirzad**, a software engineer with 3+ years of experience in full-stack development, automation, and cutting-edge research in AI. I'm currently pursuing an MSc in AI, and my focus lies in leveraging technology to make meaningful impacts on rpaidly changing world.
+
+Hey there! 
+👋 I'm **Arman Shirzad**, a software engineer with 3+ years of experience in full-stack development, automation, and cutting-edge research in AI. I'm currently pursuing an MSc in AI, and my focus lies in leveraging technology to make meaningful impacts on rpaidly changing world.
 
 🔭 **Currently Working On:**
 - Developing scalable automation solutions for social media and content generation.
@@ -55,6 +57,7 @@ I'm open to collaborating on any stack, AI research, and R&D projects.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
+
 
 #### **Databases**
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
