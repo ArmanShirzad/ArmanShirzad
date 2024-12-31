@@ -27,7 +27,7 @@ Hey there!
   
 📚 **Publications:**
 1. *A Bibliometric Analysis of Quantum Machine Learning Research* [DOI: 10.1080/0194262X.2023.2292049](https://doi.org/10.1080/0194262X.2023.2292049)
-2. *Cost Efficiency in Cloud Data Centers Using Q-Learning* [DOI: 10.1109/CoDIT62066.2024.10708578](https://ieeexplore.ieee.org/document/10708578)
+2. *Text-independent Speaker Recognition: A Deep Learning Approach* [DOI: 10.1109/CoDIT62066.2024.10708578](https://ieeexplore.ieee.org/document/10708578)
 
 💡 **Fun Facts:**
 - Ranked 5th in ICT Programming Challenge at Sharif University.
