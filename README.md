@@ -72,8 +72,8 @@ I'm open to collaborating on any stack, AI research, and R&D projects.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
 
-![Arman'sGitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanShirzad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact)
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanShirzad&show_icons=true&theme=radical&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact&cache_seconds=1)
 
 ![I Code with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 ![Love Coffee](https://img.shields.io/badge/-Fueled%20by%20Coffee-6F4E37?style=flat-square&logo=coffee)
