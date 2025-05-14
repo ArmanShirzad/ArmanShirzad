@@ -48,13 +48,13 @@ Hi, I’m **Arman**—an MSc **Artificial Intelligence** candidate with **4+ yea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanShirzad&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact&hide_progress=true&theme=radical"/>
 </p>
----
 
+---
 ## 📝 Selected Publications
 
 1. **A Bibliometric Analysis of Quantum Machine Learning Research** — _Online Information Review_ (2023) [DOI](https://doi.org/10.1080/0194262X.2023.2292049)
 2. **Text-independent Speaker Recognition: A Deep Learning Approach** — _IEEE CoDIT 2024_ [DOI](https://ieeexplore.ieee.org/document/10708578)
-3. **Achieving Cost Efficiency in Cloud Data Centers through Model-Free Q-Learning** — _10th International Conference on Control, Decision and Information Technologies (ICEEE 2024)_, powered by Microsoft Corporation (Accepted July 27, 2024)
+3. **Achieving Cost Efficiency in Cloud Data Centers through Model-Free Q-Learning** — ICEEE 2024_, powered by Microsoft Corporation (Accepted July 27, 2024)
 ---
 
 ## 🤝 Connect & Collaborate
@@ -65,4 +65,4 @@ Hi, I’m **Arman**—an MSc **Artificial Intelligence** candidate with **4+ yea
 
 ---
 
-<p align="center">Made with ❤️ & fueled by ☕</p>
+<p align="center">Made with ⌨️ :D & fueled by ☕🍕</p>
