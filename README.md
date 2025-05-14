@@ -1,4 +1,4 @@
-content = """# 👨‍💻 Arman Shirzad  ![Rank A+](https://img.shields.io/badge/GitHub%20Rank-A%2B-brightgreen?style=for-the-badge&logo=github)
+👨‍💻 Arman Shirzad  ![Rank A+](https://img.shields.io/badge/GitHub%20Rank-A%2B-brightgreen?style=for-the-badge&logo=github)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+Engineer+%7C+AI+Researcher+%7C+R%26D+Specialist;Building+solutions+that+matter+%F0%9F%9A%80"/>
@@ -60,8 +60,3 @@ Hi, I’m **Arman**—an MSc **Artificial Intelligence** candidate with **4+ yea
 ---
 
 <p align="center">Made with ❤️ & fueled by ☕</p>
-"""
-file_path = "/mnt/data/README_ArmanShirzad.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(content)
-file_path
