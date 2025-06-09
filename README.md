@@ -44,11 +44,26 @@ Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanShirzad&show_icons=true&include_all_commits=true&count_private=true&theme=radical&custom_title=Arman's%20GitHub%20Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanShirzad&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact&hide_progress=true&theme=radical"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-12-blue?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-1,000%2B-success?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/Private%20Repos-15+-informational?style=flat-square&logo=lock"/>
+  <img src="https://img.shields.io/badge/GitHub%20Grade-B%2B-blueviolet?style=flat-square&logo=github"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Longest%20Streak-30%20Days-pink?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-500%2B-orange?style=for-the-badge&logo=code"/>
+</p>
+
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%20⭐⭐⭐⭐⭐-green?style=flat-square&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Python-%20⭐⭐⭐⭐⭐-yellow?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%20⭐⭐⭐-orange?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Docker-%20⭐⭐⭐-blue?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/GPT-4%20APIs-%20⭐⭐⭐⭐-purple?style=flat-square&logo=openai"/>
+</p>
 ---
 ## 📝 Selected Publications
 
