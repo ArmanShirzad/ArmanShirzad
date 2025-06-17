@@ -60,12 +60,18 @@ Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%20⭐⭐⭐⭐⭐-green?style=flat-square&logo=csharp"/>
   <img src="https://img.shields.io/badge/Python-%20⭐⭐⭐⭐⭐-yellow?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%20⭐⭐⭐-orange?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Docker-%20⭐⭐⭐-blue?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/GPT-4%20APIs-%20⭐⭐⭐⭐-purple?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/JavaScript-%20⭐⭐⭐-orange?style=flat-square&logo=javascript"  />
+  <img src="https://img.shields.io/badge/Docker-%E2%AD%90%E2%AD%90%E2%AD%90-blue?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/GPT--4%20APIs-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-8A2BE2?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/R%26D-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=flat-square"/>
+
+
+
 </p>
 ---
-## 📝 Selected Publications
+
+### 📝 Selected Publications
 
 1. **A Bibliometric Analysis of Quantum Machine Learning Research** — _Online Information Review_ (2023) [DOI](https://doi.org/10.1080/0194262X.2023.2292049)
 2. **Text-independent Speaker Recognition: A Deep Learning Approach** — _IEEE CoDIT 2024_ [DOI](https://ieeexplore.ieee.org/document/10708578)
