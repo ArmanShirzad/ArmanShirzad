@@ -75,7 +75,7 @@ Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years
 
 1. **A Bibliometric Analysis of Quantum Machine Learning Research** — _Online Information Review_ (2023) [DOI](https://doi.org/10.1080/0194262X.2023.2292049)
 2. **Text-independent Speaker Recognition: A Deep Learning Approach** — _IEEE CoDIT 2024_ [DOI](https://ieeexplore.ieee.org/document/10708578)
-3. **Achieving Cost Efficiency in Cloud Data Centers through Model-Free Q-Learning** — ICEEE 2024_, powered by Microsoft Corporation (Accepted July 27, 2024)
+3. **Achieving Cost Efficiency in Cloud Data Centers through Model-Free Q-Learning** — ICEEE 2024_, powered by Microsoft Corporation [DOI](https://doi.org/10.1007/978-981-97-9112-5_27)
 ---
 
 ## 🤝 Connect & Collaborate
