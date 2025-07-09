@@ -1,7 +1,7 @@
 👨‍💻 Arman Shirzad  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+Engineer+%7C+AI+Researcher+%7C+R%26D+Specialist;Building+solutions+that+matter+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+%7C+AI+Researcher+%7C+R%26D+Specialist;Building+solutions+that+matter+%F0%9F%9A%80"/>
 </p>
 
 ---
@@ -21,24 +21,28 @@ Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years
 ---
 
 ## 🧰 Tech Toolbox
-
-| Category               | Technologies |
-|------------------------|--------------|
-| **Languages**          | C#, Python, JavaScript |
-| **Web Frameworks**     | ASP.NET Core 5–8, Razor Pages, Blazor, Django, Node.js, Express.js |
-| **Desktop UI**         | WPF, XAML |
-| **Databases**          | SQL Server, PostgreSQL, MySQL, Redis (cache) |
-| **DevOps & Cloud**     | Docker, Azure DevOps, GitHub, Git, TFS |
-| **Messaging**          | RabbitMQ |
+ **Category**             | **Technologies** |
+|--------------------------|------------------|
+| **Languages**            | C#, Python, JavaScript, TypeScript |
+| **Web Frameworks**       | ASP.NET Core 5–8, Razor Pages, Blazor, Django, Node.js, Express.js, React.js, Vue.js |
+| **Desktop UI**           | WPF, XAML |
+| **Frontend**             | HTML5, CSS3, jQuery, Tailwind CSS |
+| **CMS & E-commerce**     | WordPress, WooCommerce, Shopify, Liquid |
+| **Databases**            | SQL Server, PostgreSQL, MySQL, Redis (cache), MongoDB, Firestore, Cosmos DB |
+| **DevOps & Cloud**       | Microsoft Azure, GCP Google Cloud, Terraform, Docker, Azure DevOps, GitHub, GitHub Actions, Git, TFS, Jenkins, CircleCI |
+| **CI/CD & Monitoring**   | Grafana, Prometheus, Elastic Stack (ELK), Serilog, Seq |
+| **Messaging**            | RabbitMQ |
+| **Security & Auth**      | OAuth 2.0, JWT, Azure Active Directory (AAD) |
 | **Architecture & Patterns** | Clean Code, SOLID, Design Patterns, DDD, CQRS, Clean Architecture, Microservices, MVVM, MVC |
-| **API Development**    | REST, SOAP, GraphQL |
-| **Testing & QA**       | TDD, BDD, xUnit, NUnit, SpecFlow, Moq |
-| **Automation & Scraping** | Selenium, Playwright, Web Scraping, Agent Task Automation |
-| **Frontend**           | HTML5, CSS3, jQuery |
+| **API Development**      | REST, SOAP, GraphQL, Swagger/OpenAPI, Postman |
+| **Testing & QA**         | TDD, BDD, xUnit, NUnit, SpecFlow, Moq, FluentAssertions |
+| **Automation & Scraping**| Selenium, Playwright, Web Scraping, Agent Task Automation, Telegram Bot API, Discord API, IFTTT, Zapier |
+| **LLM / AI / ML**        | Hugging Face Transformers, LangChain, OpenAI API, Whisper, Tortoise TTS, PyTorch, TensorFlow |
+| **Data Pipeline & ETL**  | Airflow, DBT, Looker Studio |
+| **Package & Build Tools**| npm, Yarn, Webpack, Vite |
 | **Documentation & Diagrams** | Figma, Visio, UML, Technical Documentation |
-| **Project Management** | Scrum, Product Ownership, Stakeholder Communication |
-| **Other Skills**       | Prompt Engineering, English (C1), Fast Learner & Tech-Adaptive |
-
+| **Project Management**   | Scrum, Product Ownership, Stakeholder Communication |
+| **Other Skills**         | Prompt Engineering, English (C1), Fast Learner & Tech-Adaptive |
 ---
 
 ## 📊 GitHub at a Glance
