@@ -44,7 +44,7 @@ Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-12-blue?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-50-blue?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Total%20Commits-1,000%2B-success?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/Private%20Repos-15+-informational?style=flat-square&logo=lock"/>
   <img src="https://img.shields.io/badge/GitHub%20Grade-B%2B-blueviolet?style=flat-square&logo=github"/>
