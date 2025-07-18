@@ -8,7 +8,7 @@
 
 ## 🧑‍🚀 About Me
 
-Hi, I’m **Arman** an MSc **Artificial Intelligence** candidate with **4+ years** crafting full-stack products, automation pipelines and AI-powered research. I thrive at the intersection of code, data and experimentation, always chasing the next elegant solution.
+Hi, I’m **Arman** an MSc student **Artificial Intelligence** with years of experience software engineer crafting full-stack products, automation pipelines and AI-powered research. I thrive at the intersection of code, data and experimentation, always chasing the next elegant solution.
 
 * 🔭 **Current focus:**
   * 🧠 AI-Driven Engineering – Applying AI, C#, Python, and .NET to real-world challenges.
