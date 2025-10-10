@@ -1,35 +1,37 @@
 👨‍💻 Arman Shirzad  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+%7C+AI+Researcher+%7C+R%26D+Specialist;Building+solutions+that+matter+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+%7C+AI+Engineer+%7C+R%26D+Specialist;Building+production-ready+AI+solutions+%F0%9F%9A%80"/>
 </p>
 
 ---
 
 ## 🧑‍🚀 About Me
 
-Hi, I’m **Arman** an MSc student **Artificial Intelligence** with years of experience software engineer crafting full-stack products, automation pipelines and AI-powered research. I thrive at the intersection of code, data and experimentation, always chasing the next elegant solution.
+Hi, I’m **Arman**, an M.Sc. student in **Artificial Intelligence** at BTU Cottbus-Senftenberg, with 5+ years as a software engineer crafting full-stack products, AI-powered automation pipelines, and research prototypes. I excel at turning ideas into scalable, deployed systemsfrom datasets to cloud platformsblending AI/ML engineering with backend and DevOps expertise.
 
-* 🔭 **Current focus:**
-  * 🧠 AI-Driven Engineering – Applying AI, C#, Python, and .NET to real-world challenges.
-  * 🤖 Automation & E-Commerce Building scalable systems for content generation, social media automation, and Shopify integrations
-  * Researching *Novel Finetuning RAG and langchain*
-* 🌱 **Learning:** advanced deep-learning tricks
-* 🏆 **Fun fact:** ranked **5th** in the Sharif University ICT Programming Challenge
-* 🛤 **Mission:** deliver tech that’s **efficient**, **sustainable** and **impact-driven**
-* 🤝 **Open to:** AI research collabs, full-stack projects, mentorship swaps
+* 🔭 **Current Focus:**
+  * 🧠 AI-Driven Engineering: LLMs, RAG, LangChain for real-world applications.
+  * 🤖 Automation & E-Commerce: Scalable bots, content generation, and Shopify/WordPress integrations.
+  * 📊 Research: Novel fine-tuning techniques, knowledge engineering, and agentic AI.
+* 🌱 **Learning:** Advanced deep learning, ontology modeling (OWL/RDF), and conversational AI.
+* 🏆 **Fun Fact:** Ranked **5th** in Sharif University ICT Programming Challenge.
+* 🛤 **Mission:** Deliver efficient, sustainable, and impact-driven tech.
+* 🤝 **Open to:** AI research collabs, full-stack projects, or student roles (e.g., CNCgAIde-like ontology/AI pipelines).
+
 ---
 
 ## 🧰 Tech Toolbox
- **Category**             | **Technologies** |
+
+| **Category**             | **Technologies** |
 |--------------------------|------------------|
 | **Languages**            | C#, Python, JavaScript, TypeScript |
 | **Web Frameworks**       | ASP.NET Core 5–8, Razor Pages, Blazor, Django, Node.js, Express.js, React.js, Vue.js |
 | **Desktop UI**           | WPF, XAML |
-| **Frontend**             | HTML5, CSS3, jQuery, Tailwind CSS |
+| **Frontend**             | HTML5, CSS3, jQuery, Tailwind CSS, React, Nextjs |
 | **CMS & E-commerce**     | WordPress, WooCommerce, Shopify, Liquid |
 | **Databases**            | SQL Server, PostgreSQL, MySQL, Redis (cache), MongoDB, Firestore, Cosmos DB |
-| **DevOps & Cloud**       | Microsoft Azure, GCP Google Cloud, Terraform, Docker, Azure DevOps, GitHub, GitHub Actions, Git, TFS, Jenkins, CircleCI |
+| **DevOps & Cloud**       | Microsoft Azure, Google Cloud (GCP), Terraform, Docker, Azure DevOps, GitHub Actions, Git, TFS, Jenkins, CircleCI |
 | **CI/CD & Monitoring**   | Grafana, Prometheus, Elastic Stack (ELK), Serilog, Seq |
 | **Messaging**            | RabbitMQ |
 | **Security & Auth**      | OAuth 2.0, JWT, Azure Active Directory (AAD) |
@@ -42,7 +44,8 @@ Hi, I’m **Arman** an MSc student **Artificial Intelligence** with years of exp
 | **Package & Build Tools**| npm, Yarn, Webpack, Vite |
 | **Documentation & Diagrams** | Figma, Visio, UML, Technical Documentation |
 | **Project Management**   | Scrum, Product Ownership, Stakeholder Communication |
-| **Other Skills**         | Prompt Engineering, English (C1), Fast Learner & Tech-Adaptive |
+| **Other Skills**         | Prompt Engineering, Ontology (OWL/RDF, Protégé), English (C1), German (A2, improving), Persian (Native), Fast Learner |
+
 ---
 
 ## 📊 GitHub at a Glance
@@ -57,7 +60,17 @@ Hi, I’m **Arman** an MSc student **Artificial Intelligence** with years of exp
 <p align="center">
   <img src="https://img.shields.io/badge/Longest%20Streak-30%20Days-pink?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Total%20Contributions-500%2B-orange?style=for-the-badge&logo=code"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanShirzad&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+### Quick Stats
+
+| Metric          | Value      |
+|-----------------|------------|
+| Total Commits   | 1,000+    |
+| Stars           | 50        |
+| Contributions   | 500+      |
+| Current Streak  | 30+ days  |
 
 ### 🧠 Most Used Languages
 
@@ -69,25 +82,37 @@ Hi, I’m **Arman** an MSc student **Artificial Intelligence** with years of exp
   <img src="https://img.shields.io/badge/GPT--4%20APIs-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-8A2BE2?style=flat-square&logo=openai"/>
   <img src="https://img.shields.io/badge/Software%20Engineering-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/R%26D-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=flat-square"/>
-
-
-
 </p>
+
 ---
 
-### 📝 Selected Publications
+## 🔗 Featured Projects
 
-1. **A Bibliometric Analysis of Quantum Machine Learning Research** — _Online Information Review_ (2023) [DOI](https://doi.org/10.1080/0194262X.2023.2292049)
-2. **Text-independent Speaker Recognition: A Deep Learning Approach** — _IEEE CoDIT 2024_ [DOI](https://ieeexplore.ieee.org/document/10708578)
-3. **Achieving Cost Efficiency in Cloud Data Centers through Model-Free Q-Learning** — ICEEE 2024_, powered by Microsoft Corporation [DOI](https://doi.org/10.1007/978-981-97-9112-5_27)
+* **[SocialMediaContentCreationAndPostingAutomationPlatform](https://github.com/ArmanShirzad/SocialMediaContentCreationAndPostingAutomationPlatform)**: LLM-powered scraping, translation, summarization, and posting to X/Telegram (Python, LangChain, FastAPI)automates content for 100+ posts/week.
+* **[GCP-Cloud-Resource-Analytics-Clean](https://github.com/ArmanShirzad/GCP-Cloud-Resource-Analytics-Clean)**: FastAPI + Terraform service for cloud metrics/alerts; demonstrates resilient APIs and data-backed evaluations.
+* **[telegram-bot-to-checkmembers-pub](https://github.com/ArmanShirzad/telegram-bot-to-checkmembers-pub)**: Async Python bot for Telegram group management; includes rate limits and monitoring.
+* **[SpecflowBDDTDDCleanArchCRUDApplicationusingDotnet](https://github.com/ArmanShirzad/SpecflowBDDTDDCleanArchCRUDApplicationusingDotnet)**: .NET Core CRUD app with BDD/TDD and clean architecture; showcases testing harnesses.
+* **[PR-CommentExport](https://github.com/ArmanShirzad/PR-CommentExport)**: Tool for exporting GitHub PR comments; useful for audits and reporting.
+* **[Legal-RAG-Assistant](https://github.com/ArmanShirzad/Legal-RAG-Assistant)** (New/Upcoming): Python/LangChain/vector DB for LLM-based legal queries with provenance tracking and quality evaluation.
+
+---
+
+## 📝 Selected Publications
+
+1. **Bibliometric Analysis of Quantum Machine Learning Research**  _Journal of Science and Technology Libraries_ (2024) [DOI](https://doi.org/10.1080/0194262X.2023.2292049)
+2. **Text-Independent Speaker Recognition**  _IEEE CoDIT 2024_ [DOI](https://doi.org/10.1109/CoDIT62066.2024.10708578)
+3. **Model-Free Q-Learning for Cost Efficiency in Cloud Data Centers**  _ICEEE 2024_ [DOI](https://doi.org/10.1007/978-981-97-9112-5_27)
+
 ---
 
 ## 🤝 Connect & Collaborate
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanshirzad1998@gmail.com)
+Let's build something ambitiousAI pipelines, automation tools, or research projects! DM for collabs.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirzarm@b-tu.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arman-shirzad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://armanshirzad.guru)
 
 ---
 
-<p align="center">Made with ⌨️ :D & fueled by ☕🍕</p>
+<p align="center">Made with ⌨️ & fueled by ☕🍕</p>
