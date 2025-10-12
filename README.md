@@ -1,8 +1,5 @@
 👨‍💻 Arman Shirzad  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&repeat=false&width=550&lines=Software+%7C+AI+Engineer+%7C+R%26D+Specialist;Building+production-ready+AI+solutions+%F0%9F%9A%80"/>
-</p>
 
 ---
 
