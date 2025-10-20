@@ -14,7 +14,7 @@ Hi, I’m **Arman**, an M.Sc. student in **Artificial Intelligence** at BTU Cott
 * 🌱 **Learning:** Advanced deep learning, ontology modeling (OWL/RDF), and conversational AI.
 * 🏆 **Fun Fact:** Ranked **5th** in Sharif University ICT Programming Challenge.
 * 🛤 **Mission:** Deliver efficient, sustainable, and impact-driven tech.
-* 🤝 **Open to:** AI research collabs, full-stack projects, or student roles (e.g., CNCgAIde-like ontology/AI pipelines).
+* 🤝 **Open to:** AI research collabs, full-stack projects, or student roles (e.g. AI pipelines).
 
 ---
 
